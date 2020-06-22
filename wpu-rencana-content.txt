@@ -5,7 +5,11 @@ RENCANA KONTEN WPU
  *Frameworks java script
   ^Angular
   ^ React
+  ^ Vue
+ - struktur data dasar
 - PHP Frameworks
-  ^ Laravel
+ ^ laravel
+ ^ Code Igniter
 - Interview
 - Vlog
+-python
